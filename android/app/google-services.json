@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700137195472",
+    "project_id": "cuversedemo",
+    "storage_bucket": "cuversedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700137195472:android:41815ad6eb4dd169501bd5",
+        "android_client_info": {
+          "package_name": "com.flutterflow.cuversedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8boORiEH5AP8Q1avHeji0WJ3hK95UTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
